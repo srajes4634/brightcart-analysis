@@ -1,0 +1,19 @@
+
+BrightCart Profitability Summary
+
+1. Category Insights
+- Most profitable category: Grocery
+- Least profitable category: Sports
+
+2. Channel Insights
+- Channels vary significantly in return rates and profit contribution.
+- Higher return rates negatively impact profit margins.
+
+3. Marketing Insights
+- Best ROAS platform: TikTok Ads
+- Worst ROAS platform: Affiliate
+
+4. Recommendation
+- Reduce spend on Affiliate and low-margin categories.
+- Reallocate budget toward TikTok Ads.
+- Focus on channels with lower return rates to improve profitability.
